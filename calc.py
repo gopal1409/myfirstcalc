@@ -60,6 +60,7 @@ class Calc(Parser):
         'NAME', 'NUMBER',
         'PLUS', 'MINUS', 'EXP', 'TIMES', 'DIVIDE', 'EQUALS',
         'LPAREN', 'RPAREN',
+	pass
     )
 
     # Tokens
